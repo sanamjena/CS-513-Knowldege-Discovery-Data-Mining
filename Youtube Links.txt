@@ -1,1 +1,2 @@
 Bayes Theorem & CART Algo 12_Mar_2020	-> https://youtu.be/aaYqCG2110U
+Decision Tree | C4.5 Algorithm	26_Mar_2020	-> https://youtu.be/oynRF_k4YfU
